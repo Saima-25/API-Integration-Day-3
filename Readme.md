@@ -36,7 +36,7 @@ Each product was displayed with its respective attributes as per the schema.
 # Screenshots
 
 ## Thorugh Sanity 
-(./id-token.png)
+(./id-tokenapi.png)
 
 ## API Integration
 ![API Fetch Code](./2025-01-19 (8).png)
@@ -44,6 +44,8 @@ Each product was displayed with its respective attributes as per the schema.
 ## Migration Script Output
 ![Migration Output](./migration.png)
 
+## Sanity Schema
+![schema](./sanity.png)
 
 
 ## Sanity Studio
